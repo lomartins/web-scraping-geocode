@@ -15,7 +15,7 @@ python geocoding.py "Av. Alm. Barroso, 123 , Rio de Janeiro"
 ```
 
 ### Import:
-```
+```python
 from geocoding import Geocode
 
 geocode = GeoCode()
